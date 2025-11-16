@@ -1,0 +1,16 @@
+# Core Data Science Libraries
+numpy==1.26.4
+pandas==2.2.1
+matplotlib==3.8.3
+
+# Machine Learning Libraries
+scikit-learn>=1.4.2
+xgboost==2.0.3
+lightgbm==4.3.0
+imbalanced-learn>=0.12.3
+
+# Deep Learning - PyTorch
+torch==2.2.1
+torch-geometric==2.5.2
+
+# Utilities
